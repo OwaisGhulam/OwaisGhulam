@@ -5,9 +5,9 @@
 
 ## about me 📘
 
-<span style="color: #0366d6;">🎓</span> graduating from the university of houston with a b.s. in chemical engineering in may 2024.
+<span style="color: #0366d6;">🎓</span> graduated from the university of houston with a b.s. in chemical engineering in may 2024.
 
-<span style="color: #0366d6;">🔧</span> experienced with a variety of technologies, including plc, beckhoff, emerson deltav, and more.
+<span style="color: #0366d6;">🔧</span> years of industrial automation experience with a variety of technologies, including plc, DCS, industrial networking, and instrumentation.
 
 <span style="color: #0366d6;">👨‍💻</span> i love coding in python, c++, and java, and am currently exploring more about machine learning and its applications in industrial systems.
 
