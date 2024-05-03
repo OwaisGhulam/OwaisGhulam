@@ -21,13 +21,14 @@
 
 - **olin, chemical engineering intern**
 
-## software stack 🔍
+## software development stack 🔍
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Python](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<span style="color: #0366d6;">🔬</span> researching machine learning models for predicting properties of lithium-based polymers for solid-state batteries.
 
-<span style="color: #0366d6;">🚀</span> developing an open-source library for automation system simulations.
+<p></p>
 
-## industrial controls stack
+![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Node JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)![JavaScript](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)![ExpressJS](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![HTML](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![CSS]
+
 
 ## let's connect! 🌐
 
