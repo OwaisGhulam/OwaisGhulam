@@ -14,6 +14,8 @@
 
 ## professional experience 💼
 
+-- **honeywell, AI/ML engineer**
+
 - **tesla, automation and controls engineering intern**
 
 - **exxonmobil, chemical engineering intern**
@@ -41,5 +43,4 @@ feel free to reach out via email at owaisghulam29@gmail.com or connect with me o
 <a href="https://linkedin.com/in/owaisg" target="blank"><img align="center" src="https://github.com/OwaisGhulam/OwaisGhulam/blob/main/linkedin.jpeg" alt="LinkedIn" height="130" width="130" /></a>
 <a href="https://instagram.com/owaisghulam_" target="blank"><img align="center" src="https://github.com/OwaisGhulam/OwaisGhulam/blob/main/Instagram_icon.png" alt="Instagram" height="80" width="80" /></a>
 </p>
-
-![snake gif](https://github.com/OwaisGhulam/OwaisGhulam/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/OwaisGhulam/OwaisGhulam/blob/output/github-contribution-grid-snake.gif) -->
