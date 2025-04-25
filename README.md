@@ -14,7 +14,7 @@
 
 ## professional experience 💼
 
--- **honeywell, AI/ML engineer**
+- **honeywell, AI/ML engineer**
 
 - **tesla, automation and controls engineering intern**
 
