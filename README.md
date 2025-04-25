@@ -10,7 +10,7 @@
 
 <span style="color: #0366d6;">🔧</span> years of industrial automation experience with a variety of technologies, including PLC, DCS, industrial networking, and instrumentation.
 
-<span style="color: #0366d6;">👨‍💻</span> i love coding in python, c++, and java, and am currently exploring more about machine learning and its applications in industrial systems.
+<span style="color: #0366d6;">👨‍💻</span> now I'm a AI engineer, contributing to computer vision and LLMs.
 
 ## professional experience 💼
 
